@@ -1,0 +1,1 @@
+$('.ui-datepicker-trigger').attr('src', '/img/calendar.png');
